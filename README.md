@@ -62,7 +62,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ShreyTriesToCode/ShreyTriesToCode/output/snake.svg" alt="Snake animation" />
 
 ###
 
