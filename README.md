@@ -21,7 +21,7 @@ CSS	,
 JS	,
 Python	,
 Android Studio	,
-Flutter	,
+Flutter	
 
 ### 
 ## 🔗 Links
