@@ -30,6 +30,12 @@
 ###
 
 <p align="left">B.Tech CSE student at SRMIST KTR (Class of 2027) building full-stack and ML projects. Work includes React and Flask web apps and computer vision systems like signature verification using OpenCV (ORB feature matching). Interested in software engineering, problem solving, and building clean, user-focused products. Active in IEEE Computer Society and hackathons.</p>
+<h3 align="left">
+  Visit My Portfolio:
+  <a href="https://portfolio.shreybuilds.com" target="_blank" rel="noopener noreferrer">
+    portfolio.shreybuilds.com
+  </a>
+</h3>
 
 ###
 
@@ -84,5 +90,5 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ShreyTriesToCode&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="180" alt="streak graph"  />
 </div>
-<h3 align="left"> Visit My Portfolio : portfolio.shreybuilds.com </h3>
-###
+
+
